@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**JavierCousino/JavierCousino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Javier Cousiño y soy Cloud Developer en la unidad de soluciones Microsoft de Sogeti (Capgemini). Actualmente en mi trabajo realizo todo tipo de desarrollos frontend, backend, database, operaciones, cloud, ... 
 
-Here are some ideas to get you started:
+ 
+## 🧠 Tengo conocimientos en
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Frontend 
+<img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML 5" title="HTML 5"  />  <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" title="JavaScript"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/jQuery.svg" alt="jQuery" title="jQuery"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS 3" title="CSS 3"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"  />    <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Angular.svg" alt="Angular" title="Angular"  />  <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" title="TypeScript"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="Material UI" title="Material UI"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" title="Blazor"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Materialize.svg" alt="Materialize" title="Materialize"  /><img height="24" width="24" src="https://avatars.githubusercontent.com/u/568561?s=280&v=4" alt="Telerik" title="Telerik"  />
+
+#### Backend 
+<img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" title="C#"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/.NET.svg" alt=".Net" title=".Net"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".Net Core" title=".Net Core"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node JS" title="Node JS"  />
+
+#### Database 
+<img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/Microsoft-SQL-Server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="Azure SQL Database" title="Azure SQL Database"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/Cosmos-BD.png" alt="Azure Cosmos DB" title="Azure Cosmos DB"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="Postgresql" title="Postgresql"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle" title="Oracle"  />
+
+#### Cloud - hosting - ops  
+<img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Azure.svg" alt="Azure" title="Azure"  />    <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" title="Azure DevOps"  />    <img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" alt="WordPress" title="WordPress"  />   <img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" title="GitHub"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="GitHub Actions" title="GitHub Actions"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/GitHubCopilot/FFFFFF" alt="GitHub Copilot" title="GitHub Copilot"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub-Codespaces.png" alt="GitHub Codesapces" title="GitHub Codesapces"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/NuGet.svg" alt="Nuget" title="Nuget"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/NPM.svg" alt="NPM" title="NPM"  /> 
+
+#### Others 
+<img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/Powershell.png" alt="PowerShell" title="PowerShell"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" title="Postman"  />  <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Jira.svg" alt="Jira" title="Jira"  />   <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Jira-Align.svg" alt="Jira Software" title="Jira Software"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Confluence.svg" alt="Confluence" title="Confluence"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Swagger.svg" alt="Swagger" title="Swagger"  />  <img height="24" width="24" src="https://cdn.simpleicons.org/Diagrams.Net/F08705" alt="DrawIO" title="DrawIO"  />   <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/D3.js.svg" alt="D3 js" title="D3 js"  />  <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/XML.svg" alt="XML" title="XML"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/YAML.png" alt="YAML" title="YAML"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" alt="JSON" title="JSON"  /> <img height="24" width="24" src="https://cdn.simpleicons.org/JsonWebTokens/FFFFFF" alt="JSON Web Tokens" title="JSON Web Tokens"  /><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" alt="SonarQube" title="SonarQube"  /> <img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/ESLint.svg" alt="ESLint" title="ESLint"  /> 
+
+
+## 🔗 Enlaces
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fco-javier-cousi%C3%B1o/)
