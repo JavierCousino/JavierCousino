@@ -30,6 +30,7 @@ Soy Javier Cousiño y soy Cloud Developer en la unidad de soluciones Microsoft d
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/.NET.svg" alt=".Net" title=".Net" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".Net Core" title=".Net Core" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node JS" title="Node JS" /></td>
+		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology)/svg/python.svg" alt="Python" title="Python" /></td>
 	</tr>
 </table>
 
