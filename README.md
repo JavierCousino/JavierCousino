@@ -80,6 +80,7 @@ Soy Javier Cousiño y soy Cloud Developer en la unidad de soluciones Microsoft d
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" alt="JSON" title="JSON" /></td>
 		<td><img height="24" width="24" src="https://cdn.simpleicons.org/JsonWebTokens/FFFFFF" alt="JSON Web Tokens" title="JSON Web Tokens" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" alt="SonarQube" title="SonarQube" /></td>
+		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Grafana" alt="Grafana" title="Grafana" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/ESLint.svg" alt="ESLint" title="ESLint" /></td>
 	</tr>
 </table>
