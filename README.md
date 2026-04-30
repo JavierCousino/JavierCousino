@@ -18,7 +18,6 @@ Soy Javier Cousiño y soy Cloud Developer en la unidad de soluciones Microsoft d
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" alt="Material UI" title="Material UI" /></td>
 		<td><img height="24" width="24" src="https://cdn.simpleicons.org/blazor/512BD4" alt="Blazor" title="Blazor" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Materialize.svg" alt="Materialize" title="Materialize" /></td>
-		<td><img height="24" width="24" src="https://avatars.githubusercontent.com/u/568561?s=280&v=4" alt="Telerik" title="Telerik" /></td>
 	</tr>
 </table>
 
@@ -80,7 +79,6 @@ Soy Javier Cousiño y soy Cloud Developer en la unidad de soluciones Microsoft d
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" alt="JSON" title="JSON" /></td>
 		<td><img height="24" width="24" src="https://cdn.simpleicons.org/JsonWebTokens/FFFFFF" alt="JSON Web Tokens" title="JSON Web Tokens" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" alt="SonarQube" title="SonarQube" /></td>
-		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/Grafana" alt="Grafana" title="Grafana" /></td>
 		<td><img height="24" width="24" src="https://icon.icepanel.io/Technology/svg/ESLint.svg" alt="ESLint" title="ESLint" /></td>
 	</tr>
 </table>
